@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/PavanOther/BlogPreview)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://pavanother.github.io/BlogPreview/)
 
 ## My process
 
